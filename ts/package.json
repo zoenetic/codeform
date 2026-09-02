@@ -30,7 +30,7 @@
     "test": "tsc --noEmit && tsx --test src/*.test.ts"
   },
   "dependencies": {
-    "tsx": "^4.23.12",
+    "tsx": "^4.23.13",
     "yaml": "^2.9.0"
   },
   "peerDependencies": {
